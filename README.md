@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Dante-dlcio/Dante-dlcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dante-dlcio&label=Profile%20views&color=0e75b6&style=flat" alt="dante-dlcio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dante-dlcio" alt="dante-dlcio" /></a> </p>
+
 
 - 🌱 I’m currently learning **Next JS**
 
