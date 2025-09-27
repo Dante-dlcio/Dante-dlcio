@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React.js, JavaScript, CSS, HTML, Node.js, Redux, Postgresql**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **erio-donalicio@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
