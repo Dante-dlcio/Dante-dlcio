@@ -188,7 +188,7 @@
 
 <p align="center">
   <img
-     src="https://streak-stats.demolab.com/?user=dante-dlcio&theme=dark&timezone=Europe/Madrid"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=dante-dlcio&theme=dark&timezone=Europe/Madrid&v=2"
     alt="Erio's GitHub streak"
     width="420"
   />
